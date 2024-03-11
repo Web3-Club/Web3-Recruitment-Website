@@ -115,6 +115,17 @@ DeJob，是一个专注于Web3的公益性质招聘求职平台。
 
 <br>
 
+## 登链招聘board
+
+链接：[登链-招聘职业Board](https://learnblockchain.cn/jobs)
+
+### 语言
+中文
+
+### 简介
+隶属于登链官网的招聘平台
+
+
 
 ## 电鸭社区
 官网链接：[电鸭社区](https://eleduck.com)
